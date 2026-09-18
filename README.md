@@ -1,3 +1,5 @@
+![Låg-poly industrilandskap bland granskog i jkpg-ai:s färgpalett](assets/banner.png)
+
 # foundation
 
 > 🚧 **Under uppbyggnad** – innehållet är inte färdigt och kan ändras.
